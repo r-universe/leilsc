@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "StrucDiv"]
 	path = StrucDiv
 	url = https://github.com/leilsc/strucdiv
-	shallow = true
-	registered = true
